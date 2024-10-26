@@ -1,0 +1,2 @@
+# Boilerplate-Hilt-Coroutine-Room-MVVM-Databinding-Livedata
+This is my boilerplate for Kotlin projects using Hilt as dependency injection, MVVM as project architecture, Coroutine for asynchronous functions, Room database for local storage with Livedata support along with Databinding feature along with views. This reduces my extra workload to create project from scratch every time i need to create one.
